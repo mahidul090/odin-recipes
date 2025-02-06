@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is to create a webpage that contains three recipes, allowing navigation to each recipe page and back to the main page. Basic HTML and tag knowledge is needed to complete this project.
